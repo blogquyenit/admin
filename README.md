@@ -1,0 +1,2 @@
+# admin
+Blog Quyền IT 
